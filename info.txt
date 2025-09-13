@@ -1,4 +1,6 @@
 Sở thích: hat
 Kỹ năng: choi guitar
 
-Dòng từ feature-branch
+Dòng từ feature-branch 
+Dòng từ feature-branch mới
+
