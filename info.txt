@@ -1,5 +1,2 @@
 Sở thích: hat
 Kỹ năng: choi guitar
-
-Dòng từ main (gây conflict)
-Dòng từ main mới
